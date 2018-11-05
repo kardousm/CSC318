@@ -3,7 +3,7 @@
 
 ### If you download the beta of Framer X
 
-You can simply open the 'Project.framerx' file 
+You can simply open the `Project.framerx` file 
 
 ### To simply edit code
 
