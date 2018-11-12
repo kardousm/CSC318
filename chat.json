@@ -23,6 +23,14 @@
     {
         "phrase": "shopping",
         "returnMessage": "There's a few places you could go shopping like the Eatons Centre, but you should check out the Shopping Groups because there are some great shops all over Toronto."
+    },
+    {
+        "phrase": "movies",
+        "returnMessage": "There are several cinemas in the area. Some examples are Cineplex Cinemas Varisty and VIP, Cineplex Cinemas Yonge-Dundas and VIP and Imagine Cinemas Carlton."
+    },
+    {
+        "phrase": "basketball",
+        "returnMessage": "That is great to hear! If you search basketball on the homepage of the application, it should give you a list of events and groups associated with Fantasy Basketball Groups, Pickup Basketball Events and more."
     }
   ]
 }
