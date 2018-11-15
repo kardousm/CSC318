@@ -30,7 +30,11 @@
     },
     {
         "phrase": "basketball",
-        "returnMessage": "That is great to hear! If you search basketball on the homepage of the application, it should give you a list of events and groups associated with Fantasy Basketball Groups, Pickup Basketball Events and more."
+        "returnMessage": "That is great to hear! The Raptors are scheduled to play in two weeks, and I am sure someone will make an event page. Be sure to attend it!"
+    },
+    {
+        "phrase": "casino",
+        "returnMessage": "Unfortunately, there are no casinos here in Toronto. However, every year during the CNE, they do open up a casino for a month or so."
     }
   ]
 }
